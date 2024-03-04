@@ -25,7 +25,9 @@ Aberto 7 dias por semana
 ![Alt text](note.jpg) Desde que a letra seja legível é extraído textos de textos escritos a mão.
 
 
-![Alt text]![Alt text](receipt.jpg) Lê cupons fiscais e documentos diversos
+![Alt text](receipt.jpg) 
+
+Lê cupons fiscais e documentos diversos
 
 
 ATRIBUTOS DETECTADOS:
