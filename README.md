@@ -108,3 +108,6 @@ supermercado ( 51,70 %)
 
 O controle deslizante de limite especifica que somente objetos identificados com uma pontuação de confiança ou probabilidade maior que o limite devem ser exibidos.
 
+### Referências
+DIO.
+Portal Azure
